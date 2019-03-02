@@ -1,4 +1,4 @@
-# understanding-decision-trees
+# understanding-decision-trees 🌳
 
 This notebook aims at understanding how a Decision Tree is built using the iris dataset.
 This notebook focuses on Decision Trees with a categorical target and continuous features.
